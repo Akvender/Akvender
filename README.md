@@ -13,4 +13,4 @@ Automatyzacje, integracje systemów, agenci AI. Informatyka, Politechnika Łódz
 - Generator grafik produktowych dla e-commerce
 - Agenci AI: plan tygodnia z nagrań głosowych, dokumentacja z diffów w kodzie
 
-[Portfolio](https://akvender.github.io/portfolio/) · [robert.swieboda.dev@gmail.com](mailto:robert.swieboda.dev@gmail.com)
+[Portfolio](https://akvender.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/robert-%C5%9Bwieboda-687aa02a0/) · [robert.swieboda.dev@gmail.com](mailto:robert.swieboda.dev@gmail.com)
