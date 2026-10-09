@@ -5,7 +5,7 @@ Automatyzacje, integracje systemów, agenci AI. Informatyka, Politechnika Łódz
 **AI:** OpenAI API, Anthropic API, agenci AI, MCP, transkrypcja i analiza rozmów, generowanie obrazów<br>
 **Automatyzacje:** n8n, Make, Zapier, REST API<br>
 **Integracje:** Twilio, SMSAPI, WhatsApp, MailerLite, SMTP/IMAP, Stripe, Meta (Lead Ads, Pixel, CAPI), WordPress, CRM/ERP<br>
-**Backend i infra:** Python, PostgreSQL, Docker, VPS, Prometheus, Grafana
+**Backend i infra:** Python, PostgreSQL, Linux, Docker, VPS, Prometheus, Grafana
 
 **Projekty**
 - Call center z AI: Twilio + n8n + PostgreSQL w kontenerach Docker, 5000+ rozmów z transkrypcją i analizą
